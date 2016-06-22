@@ -1,0 +1,13 @@
+decorator==4.0.9
+ipython-genutils==0.1.0
+path.py==8.1.2
+pexpect==4.0.1
+pickleshare==0.6
+ptyprocess==0.5.1
+pycurl==7.43.0
+PySocks==1.5.7
+requests==2.10.0
+simplegeneric==0.8.1
+stem==1.4.0
+traitlets==4.1.0
+wheel==0.26.0
